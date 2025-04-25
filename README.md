@@ -27,7 +27,7 @@ Esta página web tiene como objetivo ofrecer un espacio digital profesional para
 ### 🧰 Tecnologías usadas
 
 - ⚛️ React.js  
-- 💅 CSS  
+- ☁️ CSS  
 - 📦 Node.js (en entorno local)  
 - ☁️ (Próximamente) Conexión a base de datos MongoDB
 
