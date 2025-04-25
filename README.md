@@ -18,9 +18,6 @@
   Proyecto realizado con React.js para una clínica veterinaria. Incluye secciones de consultas, vacunación, peluquería y atención de urgencias.
 </div>
 
-<div align="center">
-  <img src="https://www.canva.com/design/DAGkETVtA9E/_ex2z6brnBsHSCr5Fx5r1A/edit?utm_content=DAGkETVtA9E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" height="25" />
-  ****
 ---
 
 ### 🐶 Sobre el proyecto
