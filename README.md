@@ -37,6 +37,6 @@ Esta página web tiene como objetivo ofrecer un espacio digital profesional para
 
 ```bash
 git clone https://github.com/Felipe2556/Pagina_web_ver.git
-cd Pagina_web_ver
+cd houspet
 npm install
 npm start
